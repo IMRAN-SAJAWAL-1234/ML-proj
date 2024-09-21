@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 25 18:50:19 2018
 
-@author: Rony Sulca
-"""
-#### Importing Libraries ####
 
 import pandas as pd
 from dateutil import parser
